@@ -1,0 +1,3 @@
+use MongoDB Compass
+database name: login-tut
+collection name: users
